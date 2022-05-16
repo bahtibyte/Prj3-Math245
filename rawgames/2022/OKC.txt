@@ -1,0 +1,82 @@
+Utah Jazz,86,107
+Houston Rockets,91,124
+Philadelphia 76ers,103,115
+Golden State Warriors,98,106
+Los Angeles Lakers,123,115
+Golden State Warriors,82,103
+Los Angeles Clippers,94,99
+Los Angeles Lakers,107,104
+San Antonio Spurs,99,94
+New Orleans Pelicans,108,100
+Sacramento Kings,105,103
+Brooklyn Nets,96,120
+Miami Heat,90,103
+Houston Rockets,101,89
+Milwaukee Bucks,89,96
+Boston Celtics,105,111
+Atlanta Hawks,101,113
+Utah Jazz,104,110
+Washington Wizards,99,101
+Houston Rockets,89,102
+Houston Rockets,110,114
+Memphis Grizzlies,79,152
+Detroit Pistons,114,103
+Toronto Raptors,110,109
+Los Angeles Lakers,95,116
+Dallas Mavericks,84,103
+New Orleans Pelicans,110,113
+Los Angeles Clippers,104,103
+Memphis Grizzlies,102,99
+Denver Nuggets,108,94
+Phoenix Suns,101,113
+New Orleans Pelicans,117,112
+Sacramento Kings,111,117
+Phoenix Suns,97,115
+New York Knicks,95,80
+Dallas Mavericks,86,95
+Minnesota Timberwolves,90,98
+Minnesota Timberwolves,105,135
+Denver Nuggets,95,99
+Washington Wizards,118,122
+Brooklyn Nets,130,109
+Cleveland Cavaliers,102,107
+Dallas Mavericks,102,104
+San Antonio Spurs,96,118
+Charlotte Hornets,98,121
+Cleveland Cavaliers,87,94
+Chicago Bulls,110,111
+Indiana Pacers,110,113
+Portland Trail Blazers,98,81
+Dallas Mavericks,120,114
+Portland Trail Blazers,96,93
+Sacramento Kings,103,113
+Golden State Warriors,98,110
+Toronto Raptors,98,117
+Philadelphia 76ers,87,100
+Chicago Bulls,101,106
+New York Knicks,127,123
+San Antonio Spurs,106,114
+Phoenix Suns,104,124
+Indiana Pacers,129,125
+Sacramento Kings,110,131
+Denver Nuggets,119,107
+Minnesota Timberwolves,101,138
+Utah Jazz,103,116
+Milwaukee Bucks,115,142
+Minnesota Timberwolves,102,132
+Memphis Grizzlies,118,125
+Charlotte Hornets,116,134
+San Antonio Spurs,120,122
+Miami Heat,108,120
+Orlando Magic,85,90
+Boston Celtics,123,132
+Orlando Magic,118,102
+Denver Nuggets,107,113
+Portland Trail Blazers,134,131
+Atlanta Hawks,118,136
+Detroit Pistons,101,110
+Phoenix Suns,117,96
+Portland Trail Blazers,98,94
+Utah Jazz,101,137
+Los Angeles Lakers,101,120
+Los Angeles Clippers,88,138

@@ -1,0 +1,82 @@
+Los Angeles Lakers,121,114
+Los Angeles Clippers,115,113
+Sacramento Kings,119,107
+Oklahoma City Thunder,106,98
+Memphis Grizzlies,101,104
+Oklahoma City Thunder,103,82
+Charlotte Hornets,114,92
+New Orleans Pelicans,126,85
+Houston Rockets,120,107
+Atlanta Hawks,127,113
+Minnesota Timberwolves,123,110
+Chicago Bulls,119,93
+Charlotte Hornets,102,106
+Brooklyn Nets,117,99
+Cleveland Cavaliers,104,89
+Detroit Pistons,105,102
+Toronto Raptors,119,104
+Philadelphia 76ers,116,96
+Portland Trail Blazers,118,103
+Los Angeles Clippers,105,90
+Phoenix Suns,96,104
+Phoenix Suns,118,96
+San Antonio Spurs,107,112
+Orlando Magic,126,95
+Portland Trail Blazers,104,94
+Philadelphia 76ers,93,102
+Indiana Pacers,102,100
+New York Knicks,105,96
+Boston Celtics,111,107
+Toronto Raptors,100,119
+Sacramento Kings,113,98
+Memphis Grizzlies,113,104
+Phoenix Suns,116,107
+Denver Nuggets,86,89
+Utah Jazz,123,116
+Miami Heat,115,108
+Dallas Mavericks,82,99
+New Orleans Pelicans,96,101
+Cleveland Cavaliers,96,82
+Memphis Grizzlies,108,116
+Milwaukee Bucks,99,118
+Chicago Bulls,138,96
+Minnesota Timberwolves,99,119
+Detroit Pistons,102,86
+Indiana Pacers,117,121
+Houston Rockets,105,103
+Utah Jazz,94,92
+Dallas Mavericks,130,92
+Minnesota Timberwolves,124,115
+Brooklyn Nets,110,106
+Houston Rockets,122,108
+San Antonio Spurs,124,120
+Sacramento Kings,126,114
+Oklahoma City Thunder,110,98
+Utah Jazz,85,111
+New York Knicks,114,116
+Los Angeles Lakers,117,115
+Los Angeles Clippers,104,119
+Denver Nuggets,116,117
+Portland Trail Blazers,132,95
+Dallas Mavericks,101,107
+Minnesota Timberwolves,114,129
+Dallas Mavericks,113,122
+Los Angeles Lakers,116,124
+Denver Nuggets,124,131
+Los Angeles Clippers,112,97
+Denver Nuggets,113,102
+Milwaukee Bucks,122,109
+Washington Wizards,126,112
+Boston Celtics,88,110
+San Antonio Spurs,108,110
+Orlando Magic,90,94
+Miami Heat,118,104
+Atlanta Hawks,110,121
+Washington Wizards,115,123
+Memphis Grizzlies,95,123
+Phoenix Suns,103,107
+Utah Jazz,111,107
+Sacramento Kings,109,90
+Los Angeles Lakers,128,112
+San Antonio Spurs,100,94
+New Orleans Pelicans,128,107

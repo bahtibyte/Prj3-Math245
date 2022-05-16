@@ -1,0 +1,84 @@
+Dallas Mavericks,113,87
+Cleveland Cavaliers,95,101
+Detroit Pistons,122,104
+New Orleans Pelicans,102,99
+Washington Wizards,111,122
+Philadelphia 76ers,94,122
+Washington Wizards,118,111
+Brooklyn Nets,108,117
+Utah Jazz,98,116
+Phoenix Suns,117,121
+Golden State Warriors,113,127
+Utah Jazz,98,110
+Denver Nuggets,96,105
+Milwaukee Bucks,120,100
+Orlando Magic,129,111
+Boston Celtics,110,99
+Charlotte Hornets,115,105
+Oklahoma City Thunder,113,101
+San Antonio Spurs,124,106
+Memphis Grizzlies,132,100
+New York Knicks,90,99
+Indiana Pacers,114,111
+Philadelphia 76ers,96,98
+Charlotte Hornets,127,130
+Minnesota Timberwolves,121,110
+Brooklyn Nets,105,113
+Houston Rockets,126,132
+Orlando Magic,111,99
+Denver Nuggets,115,133
+Orlando Magic,98,104
+Philadelphia 76ers,98,96
+New York Knicks,87,101
+Chicago Bulls,118,130
+Chicago Bulls,117,131
+Cleveland Cavaliers,121,118
+Portland Trail Blazers,131,136
+Sacramento Kings,108,102
+Los Angeles Lakers,118,134
+Los Angeles Clippers,93,106
+Miami Heat,91,115
+Miami Heat,118,124
+New York Knicks,108,117
+Milwaukee Bucks,121,114
+Minnesota Timberwolves,134,122
+Miami Heat,110,108
+Charlotte Hornets,113,91
+Sacramento Kings,121,104
+Boston Celtics,108,92
+Los Angeles Lakers,129,121
+Toronto Raptors,100,106
+Phoenix Suns,124,115
+Toronto Raptors,114,125
+Dallas Mavericks,94,103
+Indiana Pacers,133,112
+San Antonio Spurs,121,136
+Boston Celtics,95,105
+Cleveland Cavaliers,124,116
+Orlando Magic,130,109
+Chicago Bulls,108,112
+Toronto Raptors,127,100
+Boston Celtics,98,107
+Chicago Bulls,130,124
+Washington Wizards,117,114
+Detroit Pistons,110,113
+Milwaukee Bucks,115,124
+Los Angeles Clippers,112,106
+Indiana Pacers,131,128
+Portland Trail Blazers,122,113
+Charlotte Hornets,106,116
+Memphis Grizzlies,120,105
+New Orleans Pelicans,112,117
+New York Knicks,117,111
+Detroit Pistons,101,122
+Golden State Warriors,121,110
+Indiana Pacers,132,123
+Oklahoma City Thunder,136,118
+Cleveland Cavaliers,131,107
+Brooklyn Nets,122,115
+Toronto Raptors,108,118
+Washington Wizards,118,103
+Miami Heat,109,113
+Houston Rockets,130,114
+Charlotte Hornets,132,103
+Cleveland Cavaliers,107,101

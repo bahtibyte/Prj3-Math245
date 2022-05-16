@@ -1,0 +1,82 @@
+New Orleans Pelicans,117,97
+Brooklyn Nets,109,114
+Oklahoma City Thunder,115,103
+New York Knicks,99,112
+Detroit Pistons,110,102
+Atlanta Hawks,122,94
+Portland Trail Blazers,113,103
+Chicago Bulls,103,98
+Detroit Pistons,109,98
+Chicago Bulls,114,105
+New York Knicks,96,103
+Milwaukee Bucks,109,118
+Toronto Raptors,109,115
+Indiana Pacers,113,118
+Utah Jazz,85,120
+Denver Nuggets,103,89
+Portland Trail Blazers,111,118
+Sacramento Kings,102,94
+Golden State Warriors,96,116
+Minnesota Timberwolves,120,121
+Orlando Magic,101,96
+Boston Celtics,87,88
+Atlanta Hawks,98,96
+Charlotte Hornets,127,124
+Charlotte Hornets,110,106
+Utah Jazz,96,118
+Golden State Warriors,102,93
+Memphis Grizzlies,91,126
+Miami Heat,96,101
+Brooklyn Nets,105,114
+Boston Celtics,108,103
+Atlanta Hawks,96,98
+Washington Wizards,117,96
+Toronto Raptors,114,109
+Brooklyn Nets,110,102
+Houston Rockets,133,113
+Orlando Magic,116,106
+San Antonio Spurs,119,100
+Houston Rockets,111,91
+Charlotte Hornets,98,109
+Boston Celtics,111,99
+Miami Heat,109,98
+Washington Wizards,98,117
+Orlando Magic,123,110
+Los Angeles Clippers,101,102
+San Antonio Spurs,115,109
+New Orleans Pelicans,117,107
+Los Angeles Lakers,105,87
+Sacramento Kings,103,101
+Memphis Grizzlies,122,119
+Washington Wizards,103,106
+Dallas Mavericks,98,107
+Chicago Bulls,119,108
+Phoenix Suns,109,114
+Oklahoma City Thunder,100,87
+Cleveland Cavaliers,103,93
+Boston Celtics,87,135
+Milwaukee Bucks,123,120
+Minnesota Timberwolves,133,102
+New York Knicks,125,109
+New York Knicks,123,108
+Cleveland Cavaliers,125,119
+Miami Heat,82,99
+Chicago Bulls,121,106
+Brooklyn Nets,100,129
+Orlando Magic,116,114
+Denver Nuggets,110,114
+Cleveland Cavaliers,118,114
+Dallas Mavericks,111,101
+Toronto Raptors,88,93
+Miami Heat,113,106
+Los Angeles Lakers,126,121
+Los Angeles Clippers,122,97
+Phoenix Suns,104,114
+Milwaukee Bucks,116,118
+Detroit Pistons,94,102
+Charlotte Hornets,144,114
+Cleveland Cavaliers,112,108
+Indiana Pacers,131,122
+Toronto Raptors,114,119
+Indiana Pacers,133,120
+Detroit Pistons,118,106

@@ -1,0 +1,82 @@
+Washington Wizards,83,98
+Boston Celtics,115,83
+Dallas Mavericks,95,103
+Chicago Bulls,108,111
+Indiana Pacers,118,100
+Orlando Magic,110,109
+Indiana Pacers,97,94
+New York Knicks,113,104
+Washington Wizards,109,100
+Cleveland Cavaliers,101,102
+Brooklyn Nets,103,116
+Boston Celtics,88,104
+Philadelphia 76ers,115,109
+Detroit Pistons,121,127
+Portland Trail Blazers,113,118
+Utah Jazz,103,119
+Sacramento Kings,108,89
+Golden State Warriors,104,119
+Memphis Grizzlies,126,113
+Indiana Pacers,97,114
+Boston Celtics,97,109
+Memphis Grizzlies,91,98
+Milwaukee Bucks,97,93
+Washington Wizards,102,90
+Oklahoma City Thunder,109,110
+New York Knicks,90,87
+Sacramento Kings,124,101
+Brooklyn Nets,129,131
+Golden State Warriors,119,100
+Cleveland Cavaliers,99,144
+Philadelphia 76ers,109,114
+Los Angeles Clippers,116,108
+New York Knicks,120,105
+San Antonio Spurs,129,104
+Milwaukee Bucks,117,111
+Utah Jazz,122,108
+New Orleans Pelicans,105,101
+Phoenix Suns,95,99
+Detroit Pistons,87,103
+Milwaukee Bucks,103,96
+Miami Heat,99,104
+Dallas Mavericks,98,102
+Washington Wizards,109,105
+Portland Trail Blazers,105,114
+Charlotte Hornets,125,113
+Chicago Bulls,105,111
+Miami Heat,124,120
+Atlanta Hawks,106,100
+Miami Heat,110,106
+Chicago Bulls,127,120
+Atlanta Hawks,125,114
+Charlotte Hornets,116,101
+Oklahoma City Thunder,117,98
+Houston Rockets,139,120
+Denver Nuggets,109,110
+New Orleans Pelicans,90,120
+Minnesota Timberwolves,103,91
+Charlotte Hornets,93,125
+Atlanta Hawks,100,127
+Brooklyn Nets,133,97
+Brooklyn Nets,109,108
+Detroit Pistons,106,108
+Orlando Magic,97,103
+Cleveland Cavaliers,96,104
+San Antonio Spurs,119,104
+Phoenix Suns,117,112
+Denver Nuggets,127,115
+Los Angeles Lakers,114,103
+Los Angeles Clippers,103,100
+Los Angeles Lakers,123,128
+Philadelphia 76ers,93,88
+Chicago Bulls,99,113
+Cleveland Cavaliers,117,104
+Indiana Pacers,131,91
+Boston Celtics,115,112
+Minnesota Timberwolves,125,102
+Orlando Magic,102,89
+Miami Heat,109,114
+Atlanta Hawks,118,108
+Philadelphia 76ers,119,114
+Houston Rockets,117,115
+New York Knicks,94,105

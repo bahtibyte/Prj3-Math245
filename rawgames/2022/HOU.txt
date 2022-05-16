@@ -1,0 +1,82 @@
+Minnesota Timberwolves,106,124
+Oklahoma City Thunder,124,91
+Boston Celtics,97,107
+Dallas Mavericks,106,116
+Utah Jazz,91,122
+Los Angeles Lakers,85,95
+Los Angeles Lakers,117,119
+Phoenix Suns,111,123
+Denver Nuggets,94,95
+Golden State Warriors,107,120
+Detroit Pistons,104,112
+Portland Trail Blazers,92,104
+Phoenix Suns,89,115
+Memphis Grizzlies,102,136
+Oklahoma City Thunder,89,101
+New York Knicks,99,106
+Boston Celtics,90,108
+Chicago Bulls,118,113
+Charlotte Hornets,146,143
+Oklahoma City Thunder,102,89
+Oklahoma City Thunder,114,110
+Orlando Magic,118,116
+New Orleans Pelicans,118,108
+Brooklyn Nets,114,104
+Milwaukee Bucks,114,123
+Memphis Grizzlies,106,113
+Atlanta Hawks,132,126
+Cleveland Cavaliers,89,124
+New York Knicks,103,116
+Detroit Pistons,116,107
+Chicago Bulls,118,133
+Milwaukee Bucks,106,126
+Indiana Pacers,106,118
+Charlotte Hornets,99,123
+Los Angeles Lakers,123,132
+Miami Heat,110,120
+Denver Nuggets,111,124
+Philadelphia 76ers,113,133
+Washington Wizards,114,111
+Dallas Mavericks,106,130
+Minnesota Timberwolves,123,141
+Philadelphia 76ers,91,111
+San Antonio Spurs,128,124
+Sacramento Kings,114,126
+Sacramento Kings,118,112
+Utah Jazz,116,111
+Golden State Warriors,103,105
+San Antonio Spurs,104,134
+Portland Trail Blazers,110,125
+Golden State Warriors,108,122
+Cleveland Cavaliers,115,104
+San Antonio Spurs,106,131
+New Orleans Pelicans,107,120
+New Orleans Pelicans,97,110
+Toronto Raptors,120,139
+Utah Jazz,101,135
+Phoenix Suns,121,124
+Los Angeles Clippers,111,142
+Orlando Magic,111,119
+Los Angeles Clippers,98,99
+Los Angeles Clippers,100,113
+Utah Jazz,127,132
+Denver Nuggets,101,116
+Memphis Grizzlies,123,112
+Miami Heat,106,123
+Los Angeles Lakers,139,130
+Dallas Mavericks,100,113
+New Orleans Pelicans,105,130
+Phoenix Suns,112,129
+Indiana Pacers,118,121
+Memphis Grizzlies,98,122
+Washington Wizards,115,97
+Dallas Mavericks,91,110
+Portland Trail Blazers,125,106
+Portland Trail Blazers,115,98
+San Antonio Spurs,120,123
+Sacramento Kings,118,121
+Sacramento Kings,117,122
+Minnesota Timberwolves,132,139
+Brooklyn Nets,105,118
+Toronto Raptors,115,117
+Atlanta Hawks,114,130

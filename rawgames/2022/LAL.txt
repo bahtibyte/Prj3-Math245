@@ -1,0 +1,82 @@
+Golden State Warriors,114,121
+Phoenix Suns,105,115
+Memphis Grizzlies,121,118
+San Antonio Spurs,125,121
+Oklahoma City Thunder,115,123
+Cleveland Cavaliers,113,101
+Houston Rockets,95,85
+Houston Rockets,119,117
+Oklahoma City Thunder,104,107
+Portland Trail Blazers,90,105
+Charlotte Hornets,126,123
+Miami Heat,120,117
+Minnesota Timberwolves,83,107
+San Antonio Spurs,114,106
+Chicago Bulls,103,121
+Milwaukee Bucks,102,109
+Boston Celtics,108,130
+Detroit Pistons,121,116
+New York Knicks,100,106
+Indiana Pacers,124,116
+Sacramento Kings,137,141
+Detroit Pistons,110,106
+Sacramento Kings,117,92
+Los Angeles Clippers,115,119
+Boston Celtics,117,102
+Memphis Grizzlies,95,108
+Oklahoma City Thunder,116,95
+Orlando Magic,106,94
+Dallas Mavericks,107,104
+Minnesota Timberwolves,92,110
+Chicago Bulls,110,115
+Phoenix Suns,90,108
+San Antonio Spurs,110,138
+Brooklyn Nets,115,122
+Houston Rockets,132,123
+Memphis Grizzlies,99,104
+Portland Trail Blazers,139,106
+Minnesota Timberwolves,108,103
+Sacramento Kings,122,114
+Atlanta Hawks,134,118
+Memphis Grizzlies,119,127
+Sacramento Kings,116,125
+Denver Nuggets,96,133
+Utah Jazz,101,95
+Indiana Pacers,104,111
+Orlando Magic,116,105
+Miami Heat,107,113
+Brooklyn Nets,106,96
+Philadelphia 76ers,87,105
+Charlotte Hornets,114,117
+Atlanta Hawks,121,129
+Portland Trail Blazers,99,94
+Los Angeles Clippers,110,111
+New York Knicks,122,115
+Milwaukee Bucks,116,131
+Portland Trail Blazers,105,107
+Golden State Warriors,115,117
+Utah Jazz,106,101
+Los Angeles Clippers,102,105
+New Orleans Pelicans,95,123
+Dallas Mavericks,104,109
+Los Angeles Clippers,111,132
+Golden State Warriors,124,116
+San Antonio Spurs,110,117
+Houston Rockets,130,139
+Washington Wizards,122,109
+Phoenix Suns,111,140
+Toronto Raptors,103,114
+Minnesota Timberwolves,104,124
+Toronto Raptors,128,123
+Washington Wizards,119,127
+Cleveland Cavaliers,131,120
+Philadelphia 76ers,121,126
+New Orleans Pelicans,108,116
+Dallas Mavericks,110,128
+Utah Jazz,109,122
+New Orleans Pelicans,111,114
+Denver Nuggets,118,129
+Phoenix Suns,110,121
+Golden State Warriors,112,128
+Oklahoma City Thunder,120,101
+Denver Nuggets,146,141

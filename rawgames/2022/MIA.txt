@@ -1,0 +1,82 @@
+Milwaukee Bucks,137,95
+Indiana Pacers,91,102
+Orlando Magic,107,90
+Brooklyn Nets,106,93
+Charlotte Hornets,114,99
+Memphis Grizzlies,129,103
+Dallas Mavericks,125,110
+Boston Celtics,78,95
+Utah Jazz,118,115
+Denver Nuggets,96,113
+Los Angeles Lakers,117,120
+Los Angeles Clippers,109,112
+Utah Jazz,111,105
+Oklahoma City Thunder,103,90
+New Orleans Pelicans,113,98
+Washington Wizards,112,97
+Washington Wizards,100,103
+Detroit Pistons,100,92
+Minnesota Timberwolves,101,113
+Chicago Bulls,107,104
+Denver Nuggets,111,120
+Cleveland Cavaliers,85,111
+Indiana Pacers,113,104
+Milwaukee Bucks,102,124
+Memphis Grizzlies,90,105
+Milwaukee Bucks,113,104
+Chicago Bulls,118,92
+Cleveland Cavaliers,94,105
+Philadelphia 76ers,101,96
+Orlando Magic,115,105
+Detroit Pistons,90,100
+Indiana Pacers,125,96
+Detroit Pistons,115,112
+Orlando Magic,93,83
+Washington Wizards,119,112
+Houston Rockets,120,110
+Sacramento Kings,113,115
+Golden State Warriors,108,115
+Portland Trail Blazers,115,109
+Phoenix Suns,123,100
+Atlanta Hawks,115,91
+Atlanta Hawks,124,118
+Philadelphia 76ers,98,109
+Toronto Raptors,104,99
+Portland Trail Blazers,104,92
+Atlanta Hawks,108,110
+Los Angeles Lakers,113,107
+New York Knicks,110,96
+Los Angeles Clippers,121,114
+Toronto Raptors,120,124
+Boston Celtics,92,122
+Toronto Raptors,106,110
+San Antonio Spurs,112,95
+Charlotte Hornets,104,86
+Washington Wizards,121,100
+New Orleans Pelicans,112,97
+Brooklyn Nets,115,111
+Dallas Mavericks,99,107
+Charlotte Hornets,111,107
+New York Knicks,115,100
+San Antonio Spurs,133,129
+Chicago Bulls,112,99
+Milwaukee Bucks,119,120
+Brooklyn Nets,113,107
+Philadelphia 76ers,99,82
+Houston Rockets,123,106
+Phoenix Suns,90,111
+Cleveland Cavaliers,117,105
+Minnesota Timberwolves,104,113
+Detroit Pistons,105,98
+Oklahoma City Thunder,120,108
+Philadelphia 76ers,106,113
+Golden State Warriors,104,118
+New York Knicks,103,111
+Brooklyn Nets,95,110
+Sacramento Kings,123,100
+Boston Celtics,106,98
+Chicago Bulls,127,109
+Toronto Raptors,114,109
+Charlotte Hornets,144,115
+Atlanta Hawks,113,109
+Orlando Magic,111,125

@@ -1,0 +1,82 @@
+Chicago Bulls,88,94
+Chicago Bulls,82,97
+Atlanta Hawks,104,122
+Philadelphia 76ers,102,110
+Orlando Magic,110,103
+Brooklyn Nets,91,117
+Milwaukee Bucks,89,117
+Philadelphia 76ers,98,109
+Brooklyn Nets,90,96
+Houston Rockets,112,104
+Cleveland Cavaliers,78,98
+Toronto Raptors,127,121
+Sacramento Kings,107,129
+Indiana Pacers,97,89
+Golden State Warriors,102,105
+Los Angeles Lakers,116,121
+Miami Heat,92,100
+Milwaukee Bucks,93,114
+Los Angeles Clippers,96,107
+Los Angeles Lakers,106,110
+Portland Trail Blazers,92,110
+Phoenix Suns,103,114
+Oklahoma City Thunder,103,114
+Washington Wizards,116,119
+New Orleans Pelicans,93,109
+Brooklyn Nets,104,116
+Indiana Pacers,113,122
+Houston Rockets,107,116
+Miami Heat,100,90
+New York Knicks,91,105
+Miami Heat,112,115
+San Antonio Spurs,109,144
+New York Knicks,85,94
+San Antonio Spurs,117,116
+Milwaukee Bucks,115,106
+Charlotte Hornets,111,140
+Memphis Grizzlies,88,118
+Orlando Magic,97,92
+Utah Jazz,126,116
+Chicago Bulls,87,133
+Toronto Raptors,103,87
+Phoenix Suns,108,135
+Golden State Warriors,86,102
+Sacramento Kings,133,131
+Utah Jazz,101,111
+Denver Nuggets,111,117
+Denver Nuggets,105,110
+Orlando Magic,103,119
+Cleveland Cavaliers,115,105
+New Orleans Pelicans,101,111
+Minnesota Timberwolves,117,128
+Boston Celtics,93,102
+Minnesota Timberwolves,105,118
+Dallas Mavericks,86,116
+Memphis Grizzlies,107,132
+Charlotte Hornets,119,141
+Washington Wizards,94,103
+Boston Celtics,112,111
+Cleveland Cavaliers,106,103
+Boston Celtics,104,113
+Charlotte Hornets,127,126
+Washington Wizards,113,116
+Toronto Raptors,108,106
+Indiana Pacers,111,106
+Atlanta Hawks,113,110
+Chicago Bulls,108,114
+Boston Celtics,103,114
+Los Angeles Clippers,102,106
+Miami Heat,98,105
+Orlando Magic,134,120
+Cleveland Cavaliers,109,113
+Portland Trail Blazers,115,119
+Atlanta Hawks,122,101
+Washington Wizards,97,100
+New York Knicks,102,104
+Brooklyn Nets,123,130
+Philadelphia 76ers,102,94
+Oklahoma City Thunder,110,101
+Indiana Pacers,121,117
+Dallas Mavericks,113,131
+Milwaukee Bucks,101,131
+Philadelphia 76ers,106,118

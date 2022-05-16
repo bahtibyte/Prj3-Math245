@@ -1,0 +1,82 @@
+Denver Nuggets,98,110
+Los Angeles Lakers,115,105
+Portland Trail Blazers,105,134
+Sacramento Kings,107,110
+Cleveland Cavaliers,101,92
+New Orleans Pelicans,112,100
+Houston Rockets,123,111
+Atlanta Hawks,121,117
+Sacramento Kings,109,104
+Portland Trail Blazers,119,109
+Memphis Grizzlies,119,94
+Houston Rockets,115,89
+Minnesota Timberwolves,99,96
+Dallas Mavericks,105,98
+Dallas Mavericks,112,104
+Denver Nuggets,126,97
+San Antonio Spurs,115,111
+Cleveland Cavaliers,120,115
+New York Knicks,118,97
+Brooklyn Nets,113,107
+Golden State Warriors,104,96
+Detroit Pistons,114,103
+Golden State Warriors,96,118
+San Antonio Spurs,108,104
+Boston Celtics,111,90
+Los Angeles Clippers,95,111
+Portland Trail Blazers,111,107
+Washington Wizards,118,98
+Charlotte Hornets,137,106
+Los Angeles Lakers,108,90
+Oklahoma City Thunder,113,101
+Golden State Warriors,107,116
+Memphis Grizzlies,113,114
+Oklahoma City Thunder,115,97
+Boston Celtics,108,123
+Charlotte Hornets,133,99
+New Orleans Pelicans,123,110
+Los Angeles Clippers,106,89
+Miami Heat,100,123
+Toronto Raptors,99,95
+Indiana Pacers,112,94
+Detroit Pistons,135,108
+San Antonio Spurs,121,107
+Dallas Mavericks,109,101
+Indiana Pacers,113,103
+Utah Jazz,115,109
+Utah Jazz,105,97
+Minnesota Timberwolves,134,124
+San Antonio Spurs,115,110
+Brooklyn Nets,121,111
+Atlanta Hawks,115,124
+Washington Wizards,95,80
+Chicago Bulls,127,124
+Philadelphia 76ers,114,109
+Milwaukee Bucks,131,107
+Orlando Magic,132,105
+Los Angeles Clippers,103,96
+Houston Rockets,124,121
+Oklahoma City Thunder,124,104
+New Orleans Pelicans,102,117
+Utah Jazz,114,118
+Portland Trail Blazers,120,90
+New York Knicks,115,114
+Milwaukee Bucks,122,132
+Orlando Magic,102,99
+Miami Heat,111,90
+Toronto Raptors,112,117
+Los Angeles Lakers,140,111
+New Orleans Pelicans,131,115
+Houston Rockets,129,112
+Chicago Bulls,129,102
+Sacramento Kings,127,124
+Minnesota Timberwolves,125,116
+Denver Nuggets,140,130
+Philadelphia 76ers,114,104
+Golden State Warriors,107,103
+Memphis Grizzlies,114,122
+Oklahoma City Thunder,96,117
+Los Angeles Lakers,121,110
+Los Angeles Clippers,109,113
+Utah Jazz,111,105
+Sacramento Kings,109,116

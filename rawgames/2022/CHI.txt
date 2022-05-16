@@ -1,0 +1,82 @@
+Detroit Pistons,94,88
+New Orleans Pelicans,128,112
+Detroit Pistons,97,82
+Toronto Raptors,111,108
+New York Knicks,103,104
+Utah Jazz,107,99
+Boston Celtics,128,114
+Philadelphia 76ers,98,103
+Philadelphia 76ers,105,114
+Brooklyn Nets,118,95
+Dallas Mavericks,117,107
+Golden State Warriors,93,119
+Los Angeles Clippers,100,90
+Los Angeles Lakers,121,103
+Portland Trail Blazers,107,112
+Denver Nuggets,114,108
+New York Knicks,109,103
+Indiana Pacers,77,109
+Houston Rockets,113,118
+Orlando Magic,123,88
+Miami Heat,104,107
+Charlotte Hornets,133,119
+New York Knicks,119,115
+Brooklyn Nets,111,107
+Denver Nuggets,109,97
+Cleveland Cavaliers,92,115
+Miami Heat,92,118
+Los Angeles Lakers,115,110
+Houston Rockets,133,118
+Indiana Pacers,113,105
+Atlanta Hawks,130,118
+Atlanta Hawks,131,117
+Indiana Pacers,108,106
+Washington Wizards,120,119
+Orlando Magic,102,98
+Washington Wizards,130,122
+Dallas Mavericks,99,113
+Detroit Pistons,133,87
+Brooklyn Nets,112,138
+Golden State Warriors,96,138
+Boston Celtics,112,114
+Memphis Grizzlies,106,119
+Cleveland Cavaliers,117,104
+Milwaukee Bucks,90,94
+Orlando Magic,95,114
+Oklahoma City Thunder,111,110
+Toronto Raptors,111,105
+San Antonio Spurs,122,131
+Portland Trail Blazers,130,116
+Orlando Magic,126,115
+Toronto Raptors,120,127
+Indiana Pacers,122,115
+Philadelphia 76ers,108,119
+Phoenix Suns,124,127
+Charlotte Hornets,121,109
+Minnesota Timberwolves,134,122
+Oklahoma City Thunder,106,101
+San Antonio Spurs,120,109
+Sacramento Kings,125,118
+Atlanta Hawks,112,108
+Memphis Grizzlies,110,116
+Miami Heat,99,112
+Atlanta Hawks,124,130
+Milwaukee Bucks,112,118
+Philadelphia 76ers,106,121
+Detroit Pistons,114,108
+Cleveland Cavaliers,101,91
+Sacramento Kings,103,112
+Utah Jazz,110,125
+Phoenix Suns,102,129
+Toronto Raptors,113,99
+Milwaukee Bucks,98,126
+New Orleans Pelicans,109,126
+Cleveland Cavaliers,98,94
+New York Knicks,104,109
+Washington Wizards,107,94
+Los Angeles Clippers,135,130
+Miami Heat,109,127
+Milwaukee Bucks,106,127
+Boston Celtics,94,117
+Charlotte Hornets,117,133
+Minnesota Timberwolves,124,120

@@ -1,0 +1,82 @@
+Charlotte Hornets,122,123
+Washington Wizards,134,135
+Miami Heat,102,91
+Milwaukee Bucks,109,119
+Toronto Raptors,100,118
+Brooklyn Nets,98,105
+Toronto Raptors,94,97
+San Antonio Spurs,131,118
+New York Knicks,111,98
+Portland Trail Blazers,106,110
+Sacramento Kings,94,91
+Denver Nuggets,98,101
+Utah Jazz,111,100
+Philadelphia 76ers,118,113
+New York Knicks,84,92
+Detroit Pistons,89,97
+Charlotte Hornets,118,121
+New Orleans Pelicans,111,94
+Chicago Bulls,109,77
+Los Angeles Lakers,116,124
+Toronto Raptors,114,97
+Milwaukee Bucks,100,118
+Minnesota Timberwolves,98,100
+Atlanta Hawks,111,114
+Miami Heat,104,113
+Washington Wizards,116,110
+New York Knicks,122,102
+Dallas Mavericks,106,93
+Golden State Warriors,100,102
+Milwaukee Bucks,99,114
+Detroit Pistons,122,113
+Miami Heat,96,125
+Houston Rockets,118,106
+Chicago Bulls,105,113
+Charlotte Hornets,108,116
+Chicago Bulls,106,108
+Cleveland Cavaliers,104,108
+New York Knicks,94,104
+Brooklyn Nets,121,129
+Utah Jazz,125,113
+Boston Celtics,98,101
+Boston Celtics,100,119
+Phoenix Suns,94,112
+Los Angeles Clippers,133,139
+Los Angeles Lakers,111,104
+Golden State Warriors,121,117
+Phoenix Suns,103,113
+New Orleans Pelicans,113,117
+Charlotte Hornets,126,158
+Oklahoma City Thunder,113,110
+Dallas Mavericks,105,132
+Los Angeles Clippers,122,116
+Orlando Magic,118,119
+Chicago Bulls,115,122
+Cleveland Cavaliers,85,98
+Atlanta Hawks,112,133
+Cleveland Cavaliers,113,120
+Minnesota Timberwolves,120,129
+Milwaukee Bucks,119,128
+Washington Wizards,113,108
+Oklahoma City Thunder,125,129
+Boston Celtics,128,107
+Orlando Magic,103,119
+Orlando Magic,122,114
+Detroit Pistons,106,111
+Washington Wizards,123,133
+Cleveland Cavaliers,124,127
+San Antonio Spurs,119,108
+Atlanta Hawks,128,131
+Memphis Grizzlies,102,135
+Houston Rockets,121,118
+Portland Trail Blazers,129,98
+Sacramento Kings,109,110
+Memphis Grizzlies,103,133
+Toronto Raptors,91,131
+Atlanta Hawks,123,132
+Denver Nuggets,118,125
+Boston Celtics,123,128
+Detroit Pistons,117,121
+Philadelphia 76ers,122,131
+Philadelphia 76ers,120,133
+Brooklyn Nets,126,134

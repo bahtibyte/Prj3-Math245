@@ -1,0 +1,82 @@
+San Antonio Spurs,97,123
+New York Knicks,96,121
+New York Knicks,110,104
+Miami Heat,90,107
+Charlotte Hornets,111,120
+Toronto Raptors,109,110
+Detroit Pistons,103,110
+Minnesota Timberwolves,115,97
+Boston Celtics,79,92
+San Antonio Spurs,89,102
+Utah Jazz,107,100
+Brooklyn Nets,90,123
+Washington Wizards,92,104
+Atlanta Hawks,111,129
+New York Knicks,104,98
+Brooklyn Nets,113,115
+Milwaukee Bucks,108,117
+Milwaukee Bucks,92,123
+Charlotte Hornets,99,106
+Chicago Bulls,88,123
+Cleveland Cavaliers,92,105
+Philadelphia 76ers,96,101
+Denver Nuggets,108,103
+Houston Rockets,116,118
+Golden State Warriors,95,126
+Sacramento Kings,130,142
+Los Angeles Clippers,104,106
+Los Angeles Lakers,94,106
+Atlanta Hawks,99,111
+Miami Heat,105,115
+Brooklyn Nets,100,93
+Atlanta Hawks,104,98
+New Orleans Pelicans,104,110
+Miami Heat,83,93
+Milwaukee Bucks,110,127
+Milwaukee Bucks,118,136
+Boston Celtics,111,116
+Chicago Bulls,98,102
+Philadelphia 76ers,106,116
+Detroit Pistons,92,97
+Washington Wizards,100,102
+Washington Wizards,106,112
+Charlotte Hornets,116,109
+Dallas Mavericks,92,108
+Portland Trail Blazers,88,98
+Philadelphia 76ers,110,123
+Los Angeles Lakers,105,116
+Chicago Bulls,114,95
+Los Angeles Clippers,102,111
+Detroit Pistons,119,103
+Dallas Mavericks,110,108
+Chicago Bulls,115,126
+Indiana Pacers,119,118
+Memphis Grizzlies,115,135
+Boston Celtics,83,116
+Portland Trail Blazers,113,95
+Utah Jazz,99,114
+Phoenix Suns,105,132
+Denver Nuggets,111,121
+Atlanta Hawks,109,130
+Houston Rockets,119,111
+Indiana Pacers,119,103
+Indiana Pacers,114,122
+Toronto Raptors,103,97
+Memphis Grizzlies,96,124
+Phoenix Suns,99,102
+New Orleans Pelicans,108,102
+Minnesota Timberwolves,118,110
+Philadelphia 76ers,114,116
+Brooklyn Nets,108,150
+Detroit Pistons,120,134
+Oklahoma City Thunder,90,85
+Golden State Warriors,94,90
+Oklahoma City Thunder,102,118
+Sacramento Kings,110,114
+Cleveland Cavaliers,101,107
+Washington Wizards,110,127
+Toronto Raptors,89,102
+New York Knicks,88,118
+Cleveland Cavaliers,120,115
+Charlotte Hornets,101,128
+Miami Heat,125,111

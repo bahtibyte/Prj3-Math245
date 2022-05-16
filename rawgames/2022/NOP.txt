@@ -1,0 +1,84 @@
+Philadelphia 76ers,97,117
+Chicago Bulls,112,128
+Minnesota Timberwolves,89,96
+Minnesota Timberwolves,107,98
+Atlanta Hawks,99,102
+Sacramento Kings,109,113
+New York Knicks,117,123
+Phoenix Suns,100,112
+Sacramento Kings,99,112
+Golden State Warriors,85,126
+Dallas Mavericks,92,108
+Oklahoma City Thunder,100,108
+Brooklyn Nets,112,120
+Memphis Grizzlies,112,101
+Washington Wizards,100,105
+Miami Heat,98,113
+Los Angeles Clippers,94,81
+Indiana Pacers,94,111
+Minnesota Timberwolves,96,110
+Washington Wizards,127,102
+Utah Jazz,98,97
+Utah Jazz,105,127
+Los Angeles Clippers,123,104
+Dallas Mavericks,107,139
+Dallas Mavericks,107,91
+Houston Rockets,108,118
+Denver Nuggets,114,120
+Detroit Pistons,109,93
+San Antonio Spurs,97,112
+Oklahoma City Thunder,113,110
+Milwaukee Bucks,116,112
+Portland Trail Blazers,111,97
+Orlando Magic,110,104
+Oklahoma City Thunder,112,117
+Cleveland Cavaliers,108,104
+Milwaukee Bucks,113,136
+Utah Jazz,104,115
+Phoenix Suns,110,123
+Golden State Warriors,101,96
+Toronto Raptors,101,105
+Minnesota Timberwolves,128,125
+Los Angeles Clippers,113,89
+Brooklyn Nets,105,120
+Boston Celtics,92,104
+New York Knicks,102,91
+Indiana Pacers,117,113
+Philadelphia 76ers,107,117
+Denver Nuggets,105,116
+Boston Celtics,97,107
+Cleveland Cavaliers,90,93
+Detroit Pistons,111,101
+Denver Nuggets,113,105
+Houston Rockets,120,107
+Houston Rockets,110,97
+Miami Heat,97,112
+San Antonio Spurs,114,124
+Toronto Raptors,120,90
+Memphis Grizzlies,109,121
+Dallas Mavericks,118,125
+Phoenix Suns,117,102
+Los Angeles Lakers,123,95
+Sacramento Kings,125,95
+Utah Jazz,124,90
+Denver Nuggets,130,138
+Memphis Grizzlies,111,132
+Orlando Magic,102,108
+Charlotte Hornets,120,142
+Houston Rockets,130,105
+Phoenix Suns,115,131
+San Antonio Spurs,124,91
+Atlanta Hawks,117,112
+Charlotte Hornets,103,106
+Chicago Bulls,126,109
+San Antonio Spurs,103,107
+Los Angeles Lakers,116,108
+Portland Trail Blazers,117,107
+Los Angeles Lakers,114,111
+Los Angeles Clippers,100,119
+Sacramento Kings,123,109
+Portland Trail Blazers,127,94
+Memphis Grizzlies,114,141
+Golden State Warriors,107,128
+San Antonio Spurs,113,103
+Los Angeles Clippers,105,101

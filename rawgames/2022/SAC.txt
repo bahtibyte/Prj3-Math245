@@ -1,0 +1,82 @@
+Portland Trail Blazers,124,121
+Utah Jazz,101,110
+Golden State Warriors,107,119
+Phoenix Suns,110,107
+New Orleans Pelicans,113,109
+Dallas Mavericks,99,105
+Utah Jazz,113,119
+New Orleans Pelicans,112,99
+Charlotte Hornets,140,110
+Indiana Pacers,91,94
+Phoenix Suns,104,109
+San Antonio Spurs,117,136
+Oklahoma City Thunder,103,105
+Detroit Pistons,129,107
+Minnesota Timberwolves,97,107
+Toronto Raptors,89,108
+Utah Jazz,105,123
+Philadelphia 76ers,94,102
+Portland Trail Blazers,125,121
+Los Angeles Lakers,141,137
+Memphis Grizzlies,101,128
+Los Angeles Lakers,92,117
+Los Angeles Clippers,124,115
+Los Angeles Clippers,104,99
+Orlando Magic,142,130
+Charlotte Hornets,123,124
+Cleveland Cavaliers,103,117
+Toronto Raptors,101,124
+Washington Wizards,119,105
+Memphis Grizzlies,105,124
+San Antonio Spurs,121,114
+Golden State Warriors,98,113
+Los Angeles Clippers,89,105
+Memphis Grizzlies,102,127
+Oklahoma City Thunder,117,111
+Dallas Mavericks,95,94
+Dallas Mavericks,96,112
+Miami Heat,115,113
+Los Angeles Lakers,114,122
+Atlanta Hawks,102,108
+Denver Nuggets,111,121
+Portland Trail Blazers,88,103
+Cleveland Cavaliers,108,109
+Los Angeles Lakers,125,116
+Houston Rockets,126,114
+Houston Rockets,112,118
+Detroit Pistons,131,133
+Milwaukee Bucks,127,133
+Boston Celtics,75,128
+Atlanta Hawks,104,121
+Philadelphia 76ers,101,103
+New York Knicks,96,116
+Brooklyn Nets,112,101
+Golden State Warriors,114,126
+Oklahoma City Thunder,113,103
+Minnesota Timberwolves,114,134
+Minnesota Timberwolves,132,119
+Washington Wizards,123,110
+Brooklyn Nets,85,109
+Chicago Bulls,118,125
+Denver Nuggets,110,128
+Denver Nuggets,110,115
+Oklahoma City Thunder,131,110
+New Orleans Pelicans,95,125
+San Antonio Spurs,115,112
+Dallas Mavericks,113,114
+New York Knicks,115,131
+Denver Nuggets,100,106
+Utah Jazz,125,134
+Chicago Bulls,112,103
+Milwaukee Bucks,126,135
+Boston Celtics,97,126
+Phoenix Suns,124,127
+Indiana Pacers,110,109
+Orlando Magic,114,110
+Miami Heat,100,123
+Houston Rockets,121,118
+Houston Rockets,122,117
+Golden State Warriors,90,109
+New Orleans Pelicans,109,123
+Los Angeles Clippers,98,117
+Phoenix Suns,116,109

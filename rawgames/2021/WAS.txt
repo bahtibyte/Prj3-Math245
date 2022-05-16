@@ -1,0 +1,74 @@
+Philadelphia 76ers,107,113
+Orlando Magic,120,130
+Orlando Magic,113,120
+Chicago Bulls,107,115
+Chicago Bulls,130,133
+Minnesota Timberwolves,130,109
+Brooklyn Nets,123,122
+Philadelphia 76ers,136,141
+Boston Celtics,107,116
+Miami Heat,124,128
+Phoenix Suns,128,107
+San Antonio Spurs,101,121
+Houston Rockets,88,107
+New Orleans Pelicans,106,124
+Atlanta Hawks,100,116
+Brooklyn Nets,149,146
+Portland Trail Blazers,121,132
+Miami Heat,103,100
+Miami Heat,95,122
+Charlotte Hornets,97,119
+Chicago Bulls,105,101
+Toronto Raptors,115,137
+New York Knicks,91,109
+Boston Celtics,104,91
+Houston Rockets,131,119
+Denver Nuggets,130,128
+Portland Trail Blazers,118,111
+Los Angeles Lakers,127,124
+Los Angeles Clippers,116,135
+Denver Nuggets,112,110
+Minnesota Timberwolves,128,112
+Boston Celtics,110,111
+Memphis Grizzlies,111,125
+Los Angeles Clippers,119,117
+Memphis Grizzlies,112,127
+Philadelphia 76ers,101,127
+Milwaukee Bucks,119,125
+Milwaukee Bucks,122,133
+Sacramento Kings,119,121
+Utah Jazz,131,122
+Brooklyn Nets,106,113
+New York Knicks,113,131
+New York Knicks,102,106
+Detroit Pistons,106,92
+Indiana Pacers,132,124
+Charlotte Hornets,104,114
+Detroit Pistons,91,120
+Dallas Mavericks,87,109
+Toronto Raptors,101,103
+Orlando Magic,131,116
+Golden State Warriors,110,107
+Phoenix Suns,106,134
+Utah Jazz,125,121
+Sacramento Kings,123,111
+New Orleans Pelicans,117,115
+Detroit Pistons,121,100
+Oklahoma City Thunder,119,107
+Golden State Warriors,118,114
+Oklahoma City Thunder,129,109
+Cleveland Cavaliers,119,110
+San Antonio Spurs,143,146
+Los Angeles Lakers,116,107
+Cleveland Cavaliers,122,93
+Dallas Mavericks,124,125
+Indiana Pacers,154,141
+Milwaukee Bucks,134,135
+Toronto Raptors,131,129
+Indiana Pacers,133,132
+Atlanta Hawks,124,125
+Atlanta Hawks,116,120
+Cleveland Cavaliers,120,105
+Charlotte Hornets,115,110
+Boston Celtics,100,118
+Indiana Pacers,142,115

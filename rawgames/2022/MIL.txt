@@ -1,0 +1,82 @@
+Brooklyn Nets,127,104
+Miami Heat,95,137
+San Antonio Spurs,121,111
+Indiana Pacers,119,109
+Minnesota Timberwolves,108,113
+San Antonio Spurs,93,102
+Utah Jazz,95,107
+Detroit Pistons,117,89
+New York Knicks,98,113
+Washington Wizards,94,101
+Philadelphia 76ers,118,109
+New York Knicks,112,100
+Boston Celtics,113,122
+Atlanta Hawks,100,120
+Los Angeles Lakers,109,102
+Oklahoma City Thunder,96,89
+Orlando Magic,117,108
+Orlando Magic,123,92
+Detroit Pistons,114,93
+Denver Nuggets,120,109
+Indiana Pacers,118,100
+Charlotte Hornets,127,125
+Toronto Raptors,93,97
+Miami Heat,124,102
+Cleveland Cavaliers,112,104
+Miami Heat,104,113
+Houston Rockets,123,114
+New York Knicks,112,97
+Boston Celtics,103,117
+Indiana Pacers,114,99
+New Orleans Pelicans,112,116
+Cleveland Cavaliers,90,119
+Houston Rockets,126,106
+Dallas Mavericks,102,95
+Boston Celtics,117,113
+Orlando Magic,127,110
+Orlando Magic,136,118
+New Orleans Pelicans,136,113
+Detroit Pistons,106,115
+Toronto Raptors,111,117
+Brooklyn Nets,121,109
+Charlotte Hornets,106,114
+Charlotte Hornets,99,103
+Golden State Warriors,118,99
+Toronto Raptors,96,103
+Atlanta Hawks,114,121
+Memphis Grizzlies,126,114
+Chicago Bulls,94,90
+Sacramento Kings,133,127
+Cleveland Cavaliers,99,115
+New York Knicks,123,108
+Denver Nuggets,100,136
+Washington Wizards,112,98
+Portland Trail Blazers,137,108
+Los Angeles Clippers,137,113
+Los Angeles Lakers,131,116
+Phoenix Suns,107,131
+Portland Trail Blazers,107,122
+Indiana Pacers,128,119
+Philadelphia 76ers,120,123
+Brooklyn Nets,123,126
+Charlotte Hornets,130,106
+Miami Heat,120,119
+Chicago Bulls,118,112
+Phoenix Suns,132,122
+Oklahoma City Thunder,142,115
+Atlanta Hawks,124,115
+Golden State Warriors,109,122
+Utah Jazz,117,111
+Sacramento Kings,135,126
+Minnesota Timberwolves,119,138
+Chicago Bulls,126,98
+Washington Wizards,114,102
+Memphis Grizzlies,102,127
+Philadelphia 76ers,118,116
+Brooklyn Nets,120,119
+Los Angeles Clippers,119,153
+Dallas Mavericks,112,118
+Chicago Bulls,127,106
+Boston Celtics,127,121
+Detroit Pistons,131,101
+Cleveland Cavaliers,115,133

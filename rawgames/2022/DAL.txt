@@ -1,0 +1,82 @@
+Atlanta Hawks,87,113
+Toronto Raptors,103,95
+Houston Rockets,116,106
+San Antonio Spurs,104,99
+Denver Nuggets,75,106
+Sacramento Kings,105,99
+Miami Heat,110,125
+San Antonio Spurs,109,108
+Boston Celtics,107,104
+New Orleans Pelicans,108,92
+Chicago Bulls,107,117
+San Antonio Spurs,123,109
+Denver Nuggets,111,101
+Phoenix Suns,98,105
+Phoenix Suns,104,112
+Los Angeles Clippers,91,97
+Los Angeles Clippers,112,104
+Washington Wizards,114,120
+Cleveland Cavaliers,96,114
+New Orleans Pelicans,139,107
+New Orleans Pelicans,91,107
+Memphis Grizzlies,90,97
+Brooklyn Nets,99,102
+Memphis Grizzlies,104,96
+Indiana Pacers,93,106
+Oklahoma City Thunder,103,84
+Charlotte Hornets,120,96
+Los Angeles Lakers,104,107
+Minnesota Timberwolves,105,111
+Minnesota Timberwolves,114,102
+Milwaukee Bucks,95,102
+Utah Jazz,116,120
+Portland Trail Blazers,132,117
+Sacramento Kings,94,95
+Sacramento Kings,112,96
+Oklahoma City Thunder,95,86
+Denver Nuggets,103,89
+Golden State Warriors,99,82
+Houston Rockets,130,106
+Chicago Bulls,113,99
+New York Knicks,85,108
+Memphis Grizzlies,112,85
+Orlando Magic,108,92
+Oklahoma City Thunder,104,102
+Toronto Raptors,102,98
+Phoenix Suns,101,109
+Memphis Grizzlies,104,91
+Golden State Warriors,92,130
+Portland Trail Blazers,132,112
+Indiana Pacers,132,105
+Orlando Magic,108,110
+Oklahoma City Thunder,114,120
+Philadelphia 76ers,107,98
+Atlanta Hawks,103,94
+Detroit Pistons,116,86
+Los Angeles Clippers,112,105
+Los Angeles Clippers,97,99
+Miami Heat,107,99
+New Orleans Pelicans,125,118
+Utah Jazz,109,114
+Golden State Warriors,107,101
+Los Angeles Lakers,109,104
+Golden State Warriors,122,113
+Sacramento Kings,114,113
+Utah Jazz,111,103
+New York Knicks,77,107
+Houston Rockets,113,100
+Boston Celtics,95,92
+Brooklyn Nets,113,111
+Philadelphia 76ers,101,111
+Charlotte Hornets,108,129
+Minnesota Timberwolves,110,108
+Houston Rockets,110,91
+Minnesota Timberwolves,95,116
+Utah Jazz,114,100
+Los Angeles Lakers,128,110
+Cleveland Cavaliers,120,112
+Washington Wizards,103,135
+Milwaukee Bucks,118,112
+Detroit Pistons,131,113
+Portland Trail Blazers,128,78
+San Antonio Spurs,130,120
